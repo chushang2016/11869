@@ -1,4 +1,4 @@
- #11869_jspm基于Java的电影在线购票系统的设计与实现演示录像2023_47980.mp4
+ #11869_jspm基于Java的电影在线购票系统的设计与实现
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=11869
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11869
  
  
  
